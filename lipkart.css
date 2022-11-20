@@ -1,0 +1,322 @@
+
+
+body {
+    margin:auto;
+    overflow-x:hidden;
+    background-color:#f1f3f6 !important;
+    width:100%;
+	
+    
+}
+
+a {
+    text-decoration:none;
+}
+
+/*---------Header--------*/
+
+.headerstrip{
+    height:65px;
+    background-color:#2874f0;
+
+}
+
+.logotype {
+    float:left;
+    margin-left:10%;
+    
+}
+
+.logotype img {
+    height:20px;
+    margin-top:30%;
+}
+
+.searchbox {
+    width:14%;
+    float:left;
+    margin-left:5%;
+    margin-top:1%;
+
+}
+
+input {
+    width: 202%;
+    padding: 4% 18%;
+    float: left;
+    
+    
+}
+
+.icon-bar {
+    float:left;
+    margin-top:1%;
+    color:white;
+    position:absolute;
+    margin-left:25%;
+    
+}
+
+.login {
+    font-weight: bold;
+    position: absolute;
+    margin-left: 55%;
+    margin-top: 12px;
+    padding: 0.5% 3%;
+    background-color: white;
+    float:left;
+    margin-top:1.3%;
+    
+}
+
+.login a{
+    color: blue !important;
+    font-weight: 500;
+    text-decoration: none !important;
+    letter-spacing: .4px;
+}
+
+.seller {
+    
+    position:absolute;
+    margin-left:70%;
+    margin-top:1.5%;
+    float:left;
+   
+}
+
+.seller a {
+    font-weight:500;
+   color:white !important;
+   font-family: Roboto,Arial,sans-serif;
+   font-size:16px;
+   letter-spacing:.2px;
+   text-decoration: none !important;
+   
+   
+}
+
+.seller a:hover{
+    text-decoration: none !important;
+     color:white !important;
+   
+ }
+
+.cart {
+    margin-left:85%;
+    margin-top:1.5%;
+    position:absolute;
+    float:left;
+    
+}
+
+.cart a{
+    color:white !important;
+    font-size:16px;
+    text-decoration: none !important;
+    
+}
+
+.cart a:hover{
+    text-decoration: none !important;
+    color:white;
+    
+}
+
+/*----offer section ---*/
+
+.offer {
+    height:120px;
+    width:100%;
+    background-color:white;
+    Display:inline-block;
+    
+}
+
+.offer img {
+    height:80px;
+    
+}
+
+.offer1 {
+    float:left;
+    margin-left:44px;
+    text-align:center;
+    cursor:pointer;
+}
+
+.offer1 a:hover {
+    text-decoration:none !important;
+}
+
+.offer1 a {
+    text-decoration:none !important;
+}
+
+/****slider section ****/ 
+
+.carousel-inner {
+    height:300px;
+    margin-top:15px;
+    
+}
+
+#myCarousel {
+    width:98%;
+    margin-left:10px;
+}
+
+/*----Div Box section----- */
+
+.box {
+    
+    /* border:2px solid rgb(68, 0, 255); */
+    /* background-color:rgb(207, 215, 63); */
+    width: 98%;
+    display:inline-block;
+    margin-top:20px;
+    background-color:white;
+    margin-left:10px;
+    
+}
+
+
+
+.box1 {
+    height:330px;
+    /* border:2px solid black; */ 
+    background-color: red;
+    width: 21%;
+    float:left;   
+}
+
+.box1 img{
+    height:100%;
+    width:100%;   
+}
+
+.box2 {
+    height:300px;
+    /* border:2px solid black; */ 
+    background-color: red;
+    margin-top:20px;
+    margin-left:60px;
+    width: 20%;
+    float:left;
+    margin-bottom:10px;
+}
+
+.box2 img {
+    height:100%;
+    width:100%;
+}
+
+
+/*footer section*/
+
+#foot{
+    
+    background-color:#172337;
+    color:white;    
+   /* font-weight:bold; */
+   height:400px;
+    width:100%;
+}
+
+   
+.section{
+    height:250px;
+    width:auto; 
+    text-align:left;
+    font-family: Arial,sans-serif;
+    margin-left:50px;
+    font-size:px;
+    float:left;
+    margin-top:30px;
+}
+
+.footerheading{
+    color:#878787;
+    margin-bottom:10px;
+    
+}
+
+.border{
+    border:none;
+}
+
+#social img{
+    height:30px;
+    width:30px;
+
+}
+
+.footwrap{
+    display:inline-block;
+}
+
+
+.addressblock1 {
+    float:right; 
+    margin-right:120px;
+    height:200px;
+    margin-top:30px;
+    font-size:12px;
+}
+
+
+.addressblock {
+    float:right; 
+    margin-top:30px;
+    margin-right:40px;
+    font-size:12px;
+    border-left:1px solid #878787; 
+    height:150px;
+}
+
+.address {
+    margin-left:20px;
+    
+}
+
+.add {
+    font-family: Arial,sans-serif;
+    color:#878787;
+    font-size:12px;
+    margin-bottom:10px; 
+}
+
+#social img {
+    width:30%;
+    margin-right:50px;
+    float:right;
+}
+
+.otherpages {
+    margin-left:20px;
+    color:white;
+}
+
+.feature {
+    float:left;
+    margin-left:40px;
+
+}
+
+.feature a {
+   text-decoration:none !important;
+   color:white !important; 
+   margin-left:10px;
+}
+
+
+.feature a:hover {
+    color:white; 
+ }
+
+.copyright {
+    float:left;
+    margin-left:20px;
+
+}
+
