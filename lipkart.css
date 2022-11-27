@@ -3,10 +3,23 @@
 body {
     margin:auto;
     overflow-x:hidden;
-    background-color:#f1f3f6 !important;
-    width:100%;
-	
-    
+    background-color:#f1f3f6 ;
+    width:100%;    
+}
+
+.mydark{
+    background-color:black;
+    color:white;
+}
+
+.darkmode {
+    margin-right:15px;
+    margin-top: 15px;
+    float:right;
+}
+
+.darkmode button{
+    background-color: #2874f0;
 }
 
 a {
