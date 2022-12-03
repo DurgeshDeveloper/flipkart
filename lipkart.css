@@ -340,7 +340,7 @@ input {
     height:350px;
     width:45%;
     margin-left: 27%;
-    margin-top:30%;
+    margin-top:10%;
     position: absolute;
     z-index: 100;
     visibility: hidden;
@@ -355,7 +355,6 @@ input {
 #coupon button{
     
     margin-left: 96%;
-    background-color:white;
     border:none;
    
     
