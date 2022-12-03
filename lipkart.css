@@ -333,3 +333,31 @@ input {
 
 }
 
+/*--------Coupon Code---------------*/
+
+
+#coupon{
+    height:350px;
+    width:45%;
+    margin-left: 27%;
+    margin-top:30%;
+    position: absolute;
+    z-index: 100;
+    visibility: hidden;
+    
+}
+
+#coupon img{
+    height:100%;
+    width:100%;
+}
+
+#coupon button{
+    
+    margin-left: 96%;
+    background-color:white;
+    border:none;
+   
+    
+}
+
